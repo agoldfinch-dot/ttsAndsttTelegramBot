@@ -1,0 +1,5 @@
+pydub
+aiogram==2.24
+gTTS
+translate
+SpeechRecognition
